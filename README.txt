@@ -1,0 +1,1 @@
+This is a simple static version of Rwanda EconTracker. Upload to GitHub, deploy via Vercel (Framework = 'Other').
